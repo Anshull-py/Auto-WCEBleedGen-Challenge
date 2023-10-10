@@ -7,7 +7,7 @@ OpenCV: 4.8.0 \
 MMCV: 1.3.11 \
 MMCV Compiler: GCC 7.3 \
 MMCV CUDA Compiler: 10.1 \
-[MMDetection: 2.15.1+] (https://mmdetection.readthedocs.io/en/v2.15.1/) 
+MMDetection: 2.15.1+
 
 ### Steps
 MMdetection uses a configuration .py file to build and train models. To run the code, first and foremost, install the specified version of mmdetection library.
@@ -38,5 +38,5 @@ python demo/image_demo.py test_images config_file directoryPath_where_model.pth 
 | Average Recall     | 0.626  |
 | Average F1         | 0.4081 |
 
-![Test Results](./ScreenShots/T2_5.png =100x20)
+![Test img|320x271,50%](./ScreenShots/T2_5.png)
 
