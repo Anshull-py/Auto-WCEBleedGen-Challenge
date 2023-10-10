@@ -38,5 +38,5 @@ python demo/image_demo.py test_images config_file directoryPath_where_model.pth 
 | Average Recall     | 0.626  |
 | Average F1         | 0.4081 |
 
-![Test img|100x100,50%](./ScreenShots/T2_5.png)
-
+### Test Image
+<img src="https://github.com/Anshull-py/Auto-WCEBleedGen-Challenge/blob/main/ScreenShots/T2_5.png" width="300">
